@@ -82,7 +82,6 @@ export async function transformPublishFormToDdo(
     dockerImageCustomChecksum
   } = metadata
   const { access, files, links, providerUrl, timeout } = services[0]
-  console.log('nft meta', generateNftCreateData(metadata.nft))
   const did = nftAddress ? generateDid(nftAddress, chainId) : '0x...'
   const currentTime = dateToStringNoMS(new Date())
   const isPreview = !datatokenAddress && !nftAddress
@@ -178,6 +177,7 @@ export async function transformPublishFormToDdo(
         }
       ],
       nft: {
+        ...generateNftCreateData(metadata.nft),
         owner: accountId
       }
     })
