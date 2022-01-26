@@ -1,0 +1,27 @@
+.wrapper {
+  margin-bottom: calc(var(--spacer) / 1.5);
+  color: var(--color-secondary);
+  font-size: var(--font-size-small);
+}
+
+.header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: calc(var(--spacer) * -1);
+  margin-right: calc(var(--spacer) * -1);
+  margin-bottom: calc(var(--spacer) / 3.75);
+  border-bottom: 1px solid var(--border-color);
+  height: calc(var(--spacer) * 2);
+}
+
+.nft {
+  width: calc(var(--spacer) * 2 - 2px);
+  height: calc(var(--spacer) * 2 - 2px);
+  margin-right: calc(var(--spacer) / 3);
+}
+
+.datatoken {
+  white-space: pre;
+  margin-right: calc(var(--spacer) / 3);
+}

@@ -8,12 +8,12 @@ import Bookmark from './Bookmark'
 import { useAsset } from '@context/Asset'
 import Alert from '@shared/atoms/Alert'
 import DebugOutput from '@shared/DebugOutput'
-import MetaMain from './MetaMain'
 import EditHistory from './EditHistory'
 import styles from './index.module.css'
 import NetworkName from '@shared/NetworkName'
 import content from '../../../../content/purgatory.json'
 import { Asset } from '@oceanprotocol/lib'
+import MetaHeader from './MetaHeader'
 
 export default function AssetContent({
   ddo,
@@ -34,7 +34,7 @@ export default function AssetContent({
       <article className={styles.grid}>
         <div>
           <div className={styles.content}>
-            <MetaMain ddo={ddo} />
+            <MetaHeader ddo={ddo} />
             {price?.datatoken !== null && <Bookmark did={ddo?.id} />}
 
             {isInPurgatory === true ? (
