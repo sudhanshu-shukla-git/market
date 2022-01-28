@@ -15,12 +15,6 @@
   height: calc(var(--spacer) * 2);
 }
 
-.nft {
-  width: calc(var(--spacer) * 2 - 2px);
-  height: calc(var(--spacer) * 2 - 2px);
-  margin-right: calc(var(--spacer) / 3);
-}
-
 .datatoken {
   white-space: pre;
   margin-right: calc(var(--spacer) / 3);

@@ -1,0 +1,57 @@
+.nft {
+  position: relative;
+  width: calc(var(--spacer) * 2 - 2px);
+  height: calc(var(--spacer) * 2 - 2px);
+  margin-right: calc(var(--spacer) / 3);
+}
+
+.tooltipIcon {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.tooltip {
+  display: flex;
+  padding: calc(var(--spacer) / 4);
+  color: var(--color-secondary);
+}
+
+.tooltip img {
+  width: 128px;
+  height: 128px;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  margin-right: calc(var(--spacer) / 2);
+}
+
+.tooltip .info h2 {
+  font-size: var(--font-size-h5);
+  margin: 0;
+}
+
+.tooltip .address {
+  display: block;
+  word-break: break-all;
+  margin-bottom: calc(var(--spacer) / 2);
+}
+
+.tooltip .info .link {
+  display: block;
+  text-transform: uppercase;
+  color: var(--color-secondary);
+}
+
+.tooltip .info .link:hover,
+.tooltip .info .link:focus,
+.tooltip .info .link:hover *,
+.tooltip .info .link:focus * {
+  color: var(--brand-pink);
+}
+
+.tooltip .info .link svg {
+  width: 0.6em;
+  height: 0.6em;
+  display: inline-block;
+  fill: var(--brand-grey-light);
+}

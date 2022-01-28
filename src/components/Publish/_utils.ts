@@ -178,6 +178,8 @@ export async function transformPublishFormToDdo(
       ],
       nft: {
         ...generateNftCreateData(metadata.nft),
+        // TODO: replace with '0x...'
+        address: '0xb017a2698db9fb53142f5c342a6533a8be38d1a2',
         owner: accountId
       }
     })

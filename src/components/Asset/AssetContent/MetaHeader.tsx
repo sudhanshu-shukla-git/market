@@ -2,12 +2,14 @@ import { useAsset } from '@context/Asset'
 import { useWeb3 } from '@context/Web3'
 import { Asset } from '@oceanprotocol/lib'
 import AddToken from '@shared/AddToken'
+import Tooltip from '@shared/atoms/Tooltip'
 import ExplorerLink from '@shared/ExplorerLink'
 import Publisher from '@shared/Publisher'
 import { decodeTokenURI } from '@utils/nft'
 import React, { ReactElement } from 'react'
 import MetaCollection from './MetaCollection'
 import styles from './MetaHeader.module.css'
+import MetaNft from './MetaNft'
 
 export default function MetaHeader({ ddo }: { ddo: Asset }): ReactElement {
   const { isAssetNetwork } = useAsset()
@@ -18,22 +20,18 @@ export default function MetaHeader({ ddo }: { ddo: Asset }): ReactElement {
 
   const dataTokenSymbol = ddo?.datatokens[0]?.symbol
 
-  const nft = ddo?.nft
-
   return (
     <div className={styles.wrapper}>
       <header className={styles.header}>
-        <div className={styles.nft}>
-          <img
-            src={decodeTokenURI(nft?.tokenURI)?.image_data}
-            alt={nft?.name || 'Data  NFT'}
-          />
-        </div>
+        <MetaNft
+          nft={ddo?.nft}
+          chainId={ddo?.chainId}
+          isBlockscoutExplorer={isBlockscoutExplorer}
+        />
         <div>
-          <span>
-            Owned by <Publisher account={nft?.owner} />
-          </span>
-          <br />
+          <div>
+            Owned by <Publisher account={ddo?.nft?.owner} />
+          </div>
           <ExplorerLink
             className={styles.datatoken}
             networkId={ddo?.chainId}

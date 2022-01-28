@@ -1,0 +1,79 @@
+import { AssetNft } from '@oceanprotocol/lib'
+import Copy from '@shared/atoms/Copy'
+import Tooltip from '@shared/atoms/Tooltip'
+import ExplorerLink from '@shared/ExplorerLink'
+import { decodeTokenURI } from '@utils/nft'
+import External from '@images/external.svg'
+import React, { ReactElement } from 'react'
+import styles from './MetaNft.module.css'
+
+export default function MetaNft({
+  nft,
+  chainId,
+  isBlockscoutExplorer
+}: {
+  nft: AssetNft
+  chainId: number
+  isBlockscoutExplorer: boolean
+}): ReactElement {
+  const openseaNetworks = [1, 137, 8217]
+  const openseaTestNetworks = [4, 1001, 80001, 97, 420]
+  const isOpenSeaSupported = openseaNetworks
+    .concat(openseaTestNetworks)
+    .includes(chainId)
+
+  const openSeaBaseUri = isOpenSeaSupported
+    ? openseaTestNetworks.includes(chainId)
+      ? 'https://testnets.opensea.io'
+      : 'https://opensea.io'
+    : undefined
+
+  return (
+    <div className={styles.nft}>
+      <img
+        src={decodeTokenURI(nft?.tokenURI)?.image_data}
+        alt={nft?.name || 'Data NFT'}
+      />
+      {nft && (
+        <Tooltip
+          content={
+            <div className={styles.tooltip}>
+              <img
+                src={decodeTokenURI(nft?.tokenURI)?.image_data}
+                alt={nft?.name || 'Data NFT'}
+              />
+              <div className={styles.info}>
+                <h2>{nft.name}</h2>
+                <div className={styles.address}>
+                  {nft.address} <Copy text={nft.address} />
+                </div>
+                <ExplorerLink
+                  className={styles.link}
+                  networkId={chainId}
+                  path={
+                    isBlockscoutExplorer
+                      ? `tokens/${nft.address}`
+                      : `token/${nft.address}`
+                  }
+                >
+                  View on explorer
+                </ExplorerLink>
+                {isOpenSeaSupported && (
+                  <a
+                    className={styles.link}
+                    href={`${openSeaBaseUri}/assets/${nft.address}/1`}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View on OpenSea <External />
+                  </a>
+                )}
+              </div>
+            </div>
+          }
+          className={styles.tooltipIcon}
+        />
+      )}
+    </div>
+  )
+}
