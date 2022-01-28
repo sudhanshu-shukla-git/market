@@ -11,6 +11,10 @@
   bottom: 0;
 }
 
+.tooltipIcon svg {
+  fill: var(--font-color-text);
+}
+
 .tooltip {
   display: flex;
   padding: calc(var(--spacer) / 4);
