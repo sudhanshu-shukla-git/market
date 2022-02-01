@@ -1,3 +1,4 @@
+import { LoggerInstance } from '@oceanprotocol/lib'
 import { SvgWaves } from './Wave'
 
 // https://docs.opensea.io/docs/metadata-standards
@@ -75,7 +76,13 @@ export function generateNftCreateData(nftMetadata: NftMetadata): any {
 
 export function decodeTokenURI(tokenURI: string): NftMetadata {
   if (!tokenURI) return undefined
-  return JSON.parse(
-    Buffer.from(tokenURI.replace(tokenUriPrefix, ''), 'base64').toString()
-  ) as NftMetadata
+  try {
+    const nftMeta = JSON.parse(
+      Buffer.from(tokenURI.replace(tokenUriPrefix, ''), 'base64').toString()
+    ) as NftMetadata
+
+    return nftMeta
+  } catch (error) {
+    LoggerInstance.error(`[NFT] ${error.message}`)
+  }
 }
