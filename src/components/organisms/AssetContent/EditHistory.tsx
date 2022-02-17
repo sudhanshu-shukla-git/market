@@ -66,13 +66,13 @@ export default function EditHistory(): ReactElement {
     <>
       <h3 className={styles.title}>Metadata History</h3>
       <ul className={styles.history}>
-        {receipts?.map((receipt) => (
+        {/* {receipts?.map((receipt) => (
           <li key={receipt.id} className={styles.item}>
             <ExplorerLink networkId={ddo.chainId} path={`/tx/${receipt.tx}`}>
               edited <Time date={`${receipt.timestamp}`} relative isUnix />
             </ExplorerLink>
           </li>
-        ))}
+        ))} */}
         <li className={styles.item}>
           <ExplorerLink networkId={ddo.chainId} path={`/tx/${creationTx}`}>
             published <Time date={ddo.created} relative />
