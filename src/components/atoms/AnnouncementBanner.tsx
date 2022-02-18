@@ -32,13 +32,14 @@ export default function AnnouncementBanner({
   })
 
   return (
-    <div className={styleClasses}>
-      {text && <Markdown className={styles.text} text={text} />}
-      {action && (
-        <Button style="text" size="small" onClick={action.handleAction}>
-          {action.name}
-        </Button>
-      )}
-    </div>
+    // <div className={styleClasses}>
+    //   {text && <Markdown className={styles.text} text={text} />}
+    //   {action && (
+    //     <Button style="text" size="small" onClick={action.handleAction}>
+    //       {action.name}
+    //     </Button>
+    //   )}
+    <div></div>
+    // </div>
   )
 }
