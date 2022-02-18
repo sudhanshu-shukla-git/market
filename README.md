@@ -1,6 +1,6 @@
 [![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
 
-<h1 align="center">Turing DataMart</h1>
+<h1 align="center">TURING DataMart</h1>
 
 [![Build Status](https://github.com/oceanprotocol/market/workflows/CI/badge.svg)](https://github.com/oceanprotocol/market/actions)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c85f4d8b-95e1-4010-95a4-2bacd8b90981/deploy-status)](https://app.netlify.com/sites/market-oceanprotocol/deploys)
@@ -15,7 +15,7 @@
 - [🦑 Environment variables](#-environment-variables)
 - [🦀 Data Sources](#-data-sources)
   - [Aquarius](#aquarius)
-  - [Ocean Protocol Subgraph](#ocean-protocol-subgraph)
+  - [TURING Subgraph](#ocean-protocol-subgraph)
   - [3Box](#3box)
   - [Purgatory](#purgatory)
   - [Network Metadata](#network-metadata)
@@ -34,7 +34,7 @@
 
 ## 🏄 Get Started
 
-The app is a React app built with [Gatsby.js](https://www.gatsbyjs.org) + TypeScript + CSS modules and will connect to Ocean remote components by default.
+The app is a React app built with [Gatsby.js](https://www.gatsbyjs.org) + TypeScript + CSS modules and will connect to TURING remote components by default.
 
 To start local development:
 
@@ -90,7 +90,7 @@ To fully test all [The Graph](https://thegraph.com) integrations, you have to ru
 
 ## 🦑 Environment variables
 
-The `app.config.js` file is setup to prioritize environment variables for setting each Ocean component endpoint. By setting environment variables, you can easily switch between Ocean networks the app connects to, without directly modifying `app.config.js`.
+The `app.config.js` file is setup to prioritize environment variables for setting each TURING component endpoint. By setting environment variables, you can easily switch between TURING networks the app connects to, without directly modifying `app.config.js`.
 
 For local development, you can use a `.env` file:
 
@@ -168,7 +168,7 @@ function Component() {
 }
 ```
 
-### Ocean Protocol Subgraph
+### TURING Subgraph
 
 Most financial data in the market is retrieved with GraphQL from [our own subgraph](https://github.com/oceanprotocol/ocean-subgraph), rendered on top of the initial data coming from Aquarius.
 
@@ -370,16 +370,16 @@ We welcome contributions in form of bug reports, feature requests, code changes,
 We encourage you to fork this repository and create your own data marketplace. When you publish your forked version of this market there are a few elements that you are required to change for copyright reasons:
 
 - The typeface is copyright protected and needs to be changed unless you purchase a license for it.
-- The Ocean Protocol logo is a trademark of the Ocean Protocol Foundation and must be removed from forked versions of the market.
-- The name "Turing DataMart" is also copyright protected and should be changed to the name of your market.
+- The TURING logo is a trademark of the TURING and must be removed from forked versions of the market.
+- The name "TURING DataMart" is also copyright protected and should be changed to the name of your market.
 
-Additionally, we would also advise that your retain the text saying "Powered by Ocean Protocol" on your forked version of the marketplace in order to give credit for the development work done by the Ocean Protocol team.
+Additionally, we would also advise that your retain the text saying "Powered by TURING" on your forked version of the marketplace in order to give credit for the development work done by the TURING team.
 
 Everything else is made open according to the apache2 license. We look forward to seeing your data marketplace!
 
 ## 💻 Advanced Features
 
-Turing DataMart also includes a number of advanced features that are suitable for an enterprise data market, such as:
+TURING DataMart also includes a number of advanced features that are suitable for an enterprise data market, such as:
 
 - Role based access control
 - Allow and deny lists
@@ -389,7 +389,7 @@ Turing DataMart also includes a number of advanced features that are suitable fo
 
 ## ✅ GDPR Compliance
 
-Turing DataMart comes with prebuilt components for you to customize to cover GDPR requirements. Find additional information on how to use them below.
+TURING DataMart comes with prebuilt components for you to customize to cover GDPR requirements. Find additional information on how to use them below.
 
 ### Multi-Language Privacy Policies
 
@@ -397,7 +397,7 @@ Feel free to adopt our provided privacy policies to your needs. Per default we c
 
 ### Privacy Preference Center
 
-Additionally, Turing DataMart provides a privacy preference center for you to use. This feature is disabled per default since we do not use cookies requiring consent on our deployment of the market. However, if you need to add some functionality depending on cookies, you can simply enable this feature by changing the value of the `GATSBY_PRIVACY_PREFERENCE_CENTER` environmental variable to `"true"` in your `.env` file. This will enable a customizable cookie banner stating the use of your individual cookies. The content of this banner can be adjusted within the `content/gdpr.json` file. If no `optionalCookies` are provided, the privacy preference center will be set to a simpler version displaying only the `title`, `text` and `close`-button. This can be used to inform the user about the use of essential cookies, where no consent is needed. The privacy preference center supports two different styling options: `'small'` and `'default'`. Setting the style propertie to `'small'` will display a smaller cookie banner to the user at first, only showing the default styled privacy preference center upon the user's customization request.
+Additionally, TURING DataMart provides a privacy preference center for you to use. This feature is disabled per default since we do not use cookies requiring consent on our deployment of the market. However, if you need to add some functionality depending on cookies, you can simply enable this feature by changing the value of the `GATSBY_PRIVACY_PREFERENCE_CENTER` environmental variable to `"true"` in your `.env` file. This will enable a customizable cookie banner stating the use of your individual cookies. The content of this banner can be adjusted within the `content/gdpr.json` file. If no `optionalCookies` are provided, the privacy preference center will be set to a simpler version displaying only the `title`, `text` and `close`-button. This can be used to inform the user about the use of essential cookies, where no consent is needed. The privacy preference center supports two different styling options: `'small'` and `'default'`. Setting the style propertie to `'small'` will display a smaller cookie banner to the user at first, only showing the default styled privacy preference center upon the user's customization request.
 
 Now your market users will be provided with additional options to toggle the use of your configured cookie consent categories. You can always retrieve the current consent status per category with the provided `useConsent()` hook. See below, how you can set your own custom cookies depending on the market user's consent. Feel free to adjust the provided utility functions for cookie usage provided in the `src/utils/cookies.ts` file to your needs.
 
@@ -441,7 +441,7 @@ The style can be changed by altering the `style` prop in the `PrivacyPreferenceC
 ## 🏛 License
 
 ```text
-Copyright 2021 Ocean Protocol Foundation Ltd.
+Copyright 2021 TURING
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

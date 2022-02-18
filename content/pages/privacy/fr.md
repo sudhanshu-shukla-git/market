@@ -1,13 +1,13 @@
 ---
 title: Politique de confidentialité
-description: Cette politique de confidentialité vous informe sur la façon dont Ocean Protocol Foundation traite vos données personnelles lorsque vous visitez le Turing DataMart et lorsque vous utilisez l'une de nos fonctionnalités de marché. De plus, cette politique de confidentialité vous informe de vos droits.
+description: Cette politique de confidentialité vous informe sur la façon dont TURING traite vos données personnelles lorsque vous visitez le TURING DataMart et lorsque vous utilisez l'une de nos fonctionnalités de marché. De plus, cette politique de confidentialité vous informe de vos droits.
 ---
 
 # 1. Contrôleur
 
 Le responsable du traitement du traitement de vos données personnelles est :
 
-Ocean Protocol Foundation Ltd.<br/>
+TURING<br/>
 The Commerze @ Irving<br/>
 1 Irving Place, #08-11<br/>
 369546 Singapore
@@ -16,32 +16,32 @@ Courriel : [gdpr@oceanprotocol.com](gdpr@oceanprotocol.com)
 
 # 2. Qu&#39;est-ce qu&#39;une donnée personnelle?
 
-Les données personnelles sont toutes les informations qui peuvent être (directement ou indirectement) liées à vous. Ocean traite une quantité minimale de données personnelles, car nous pensons que vos données personnelles vous appartiennent. Nous traitons les données personnelles suivantes.
+Les données personnelles sont toutes les informations qui peuvent être (directement ou indirectement) liées à vous. TURING traite une quantité minimale de données personnelles, car nous pensons que vos données personnelles vous appartiennent. Nous traitons les données personnelles suivantes.
 
-**Adresse IP** : Votre adresse IP est traitée lors de la visite de Turing DataMart.
+**Adresse IP** : Votre adresse IP est traitée lors de la visite de TURING DataMart.
 
-Si vous utilisez l&#39;une de nos fonctionnalités du marché, Ocean traite également les données personnelles suivantes.
+Si vous utilisez l&#39;une de nos fonctionnalités du marché, TURING traite également les données personnelles suivantes.
 
 - **Adresse de votre portefeuille** : Votre adresse de votre portefeuille est traitée si vous publiez, consommez ou stakez sur un set de données.
 
 - **Nom de l&#39;auteur :** Votre nom est traité si vous décidez de publier un set de données. L&#39;ajout de votre vrai nom n&#39;est pas nécessaire. Vous êtes invités à publier un set de données à l&#39;aide d&#39;un pseudonyme.
 
-Si vous contactez Ocean par e-mail, nous traitons votre adresse e-mail et toutes les données personnelles que vous décidez de fournir dans votre message (telles que votre nom).
+Si vous contactez TURING par e-mail, nous traitons votre adresse e-mail et toutes les données personnelles que vous décidez de fournir dans votre message (telles que votre nom).
 
 Pour des informations détaillées sur les opérations de traitement, la licéité,les finalités et la manière dont vos données personnelles servent à atteindre ces finalités, veuillez consulter le chapitre «Opérations de traitement conformément à l&#39;article 13 du RGPD».
 
 # 3. Destinataires et transfert de données transfrontalier
 
-**Visiter le marché Ocean**
+**Visiter le marché TURING**
 
-Lorsque vous visitez Turing DataMart, votre adresse IP est traitée par Netlify, un fournisseur de services qui héberge notre marché. Netlify dessert notre marché en utilisant un Content Delivery Network (un réseau géographiquement distribué) avec des serveurs situés en dehors et à l&#39;intérieur de l&#39;Espace économique européen. Nous utilisons des clauses contractuelles types (CCT) pour fournir des garanties appropriées au traitement de vos données personnelles. Vous avez le droit de recevoir une copie des présentes CCT.
+Lorsque vous visitez TURING DataMart, votre adresse IP est traitée par Netlify, un fournisseur de services qui héberge notre marché. Netlify dessert notre marché en utilisant un Content Delivery Network (un réseau géographiquement distribué) avec des serveurs situés en dehors et à l&#39;intérieur de l&#39;Espace économique européen. Nous utilisons des clauses contractuelles types (CCT) pour fournir des garanties appropriées au traitement de vos données personnelles. Vous avez le droit de recevoir une copie des présentes CCT.
 
 - Vous trouverez ici la [**CCT** &#8599;](https://www.netlify.com/v3/static/pdf/netlify-dpa.pdf) de Netlify.
 - Vous trouverez ici la [**politique de confidentialité** &#8599;](https://www.netlify.com/) de Netlify.
 
-**Utilisation des fonctionnalités du marché Ocean**
+**Utilisation des fonctionnalités du marché TURING**
 
-Si vous utilisez les fonctionnalités de Turing DataMart, nous divulguons votre adresse de votre portefeuille et votre nom d&#39;auteur (le cas échéant) en les transmettant à un contrat intelligent (smart contract). Ce contrat intelligent est stocké dans un format lisible par machine sur une blockchain publique qui est stockée de manière redondante sur des nœuds dans le monde entier. Compte tenu du stockage distribué à l&#39;échelle mondiale, votre adresse de votre portefeuille et votre nom d&#39;auteur (le cas échéant) sont traités dans des pays sans décision d&#39;adéquation conformément à l&#39;article 45 du RGPD. La technologie sous-jacente de la blockchain assure la sécurité (intégrité, disponibilité, authenticité et non-répudiation) de vos données personnelles par conception et par défaut. De plus, vos droits décrits au chapitre sept restent exécutoires. Par exemple, si vous rectifiez le nom de votre auteur sur Turing DataMart, les modifications seront également automatiquement adoptées sur les nœuds qui contiennent une copie du contrat intelligent.
+Si vous utilisez les fonctionnalités de TURING DataMart, nous divulguons votre adresse de votre portefeuille et votre nom d&#39;auteur (le cas échéant) en les transmettant à un contrat intelligent (smart contract). Ce contrat intelligent est stocké dans un format lisible par machine sur une blockchain publique qui est stockée de manière redondante sur des nœuds dans le monde entier. Compte tenu du stockage distribué à l&#39;échelle mondiale, votre adresse de votre portefeuille et votre nom d&#39;auteur (le cas échéant) sont traités dans des pays sans décision d&#39;adéquation conformément à l&#39;article 45 du RGPD. La technologie sous-jacente de la blockchain assure la sécurité (intégrité, disponibilité, authenticité et non-répudiation) de vos données personnelles par conception et par défaut. De plus, vos droits décrits au chapitre sept restent exécutoires. Par exemple, si vous rectifiez le nom de votre auteur sur TURING DataMart, les modifications seront également automatiquement adoptées sur les nœuds qui contiennent une copie du contrat intelligent.
 
 **Contact par e-mail**
 
@@ -54,15 +54,15 @@ Si vous nous contactez par e-mail, notre fournisseur de services (mail), Google 
 
 Nous traitons vos données personnelles aux finssuivantes.
 
-## 4.1 Fourniture de Turing DataMart et création de fichiers journaux
+## 4.1 Fourniture de TURING DataMart et création de fichiers journaux
 
-Nous collectons et utilisons votre adresse IP pour fournir l&#39;accès à Turing DataMart hébergé chez Netlify. De plus, Ocean utilise Netlify Analytics pour collecter et stocker votre adresse IP. Vos données personnelles ne quitteront jamais notre service et nous ne vous suivrons pas sur à travers d&#39;autres sites.
+Nous collectons et utilisons votre adresse IP pour fournir l&#39;accès à TURING DataMart hébergé chez Netlify. De plus, TURING utilise Netlify Analytics pour collecter et stocker votre adresse IP. Vos données personnelles ne quitteront jamais notre service et nous ne vous suivrons pas sur à travers d&#39;autres sites.
 
 **Fins:**
 
-La collecte et l&#39;utilisation de votre adresse IP sont nécessaires pour fournir l&#39;accès à Turing DataMart, car il s&#39;agit d&#39;une exigence technique pour assurer la communication entre votre appareil et notre marché.
+La collecte et l&#39;utilisation de votre adresse IP sont nécessaires pour fournir l&#39;accès à TURING DataMart, car il s&#39;agit d&#39;une exigence technique pour assurer la communication entre votre appareil et notre marché.
 
-Ocean utilise Netlify Analytics pour distinguer les visiteurs uniques en fonction des adresses IP. Ce processus nous aide à mieux comprendre combien d&#39;utilisateurs visitent Turing DataMart et dans quels pays se trouvent les utilisateurs. Nous utilisons ces informations pour mesurer les tendances du trafic et de la popularité afin d&#39;améliorer notre service.
+TURING utilise Netlify Analytics pour distinguer les visiteurs uniques en fonction des adresses IP. Ce processus nous aide à mieux comprendre combien d&#39;utilisateurs visitent TURING DataMart et dans quels pays se trouvent les utilisateurs. Nous utilisons ces informations pour mesurer les tendances du trafic et de la popularité afin d&#39;améliorer notre service.
 
 **Base juridique:**
 
@@ -70,7 +70,7 @@ La base juridique de ce traitement est notre intérêt légitime, conformément 
 
 **Intérêts légitimes :**
 
-Notre intérêt légitime est de vous fournir Turing DataMart et ses fonctionnalités, ainsi que de les améliorer.
+Notre intérêt légitime est de vous fournir TURING DataMart et ses fonctionnalités, ainsi que de les améliorer.
 
 **Période de conservation :**
 
@@ -82,7 +82,7 @@ Lorsque vous consommez ou stakez sur set de données, nous collectons votre adre
 
 **Fins:**
 
-Turing DataMart traite votre adresse de votre portefeuille pour vous permettre de signer des transactions blockchain. La transaction contenant votre adresse de votre portefeuille sera stockée en permanence sur la chaîne afin que vous et le fournisseur d&#39;actifs puissiez prouver l&#39;acquisition et la consommation d&#39;actifs.
+TURING DataMart traite votre adresse de votre portefeuille pour vous permettre de signer des transactions blockchain. La transaction contenant votre adresse de votre portefeuille sera stockée en permanence sur la chaîne afin que vous et le fournisseur d&#39;actifs puissiez prouver l&#39;acquisition et la consommation d&#39;actifs.
 
 **Base juridique:**
 
@@ -90,7 +90,7 @@ La base juridique de ce traitement est l&#39;article 6, paragraphe 1, point b), 
 
 **Période de conservation :**
 
-Ocean divulgue votre adresse de votre portefeuille en la transmettant à un contrat intelligent (smart contract) stocké dans un format lisible par machine en permanence sur la chaîne (on-chain) pour permettre une piste d&#39;audit immuable.
+TURING divulgue votre adresse de votre portefeuille en la transmettant à un contrat intelligent (smart contract) stocké dans un format lisible par machine en permanence sur la chaîne (on-chain) pour permettre une piste d&#39;audit immuable.
 
 ## 4.3 Fonctionnalité de publication
 
@@ -98,7 +98,7 @@ Lorsque vous publiez un set de données, nous collectons votre adresse de votre 
 
 **Fins:**
 
-Nous devons traiter votre adresse de votre portefeuille pour lier votre publication à votre adresse. Nous traitons votre nom pour activer la fonctionnalité de recherche et de filtrage sur Turing DataMart. La transaction contenant votre adresse de votre portefeuille et le nom de l&#39;auteur sera stockée en permanence sur la chaîne afin que vous puissiez prouver la propriété et la vente des actifs.
+Nous devons traiter votre adresse de votre portefeuille pour lier votre publication à votre adresse. Nous traitons votre nom pour activer la fonctionnalité de recherche et de filtrage sur TURING DataMart. La transaction contenant votre adresse de votre portefeuille et le nom de l&#39;auteur sera stockée en permanence sur la chaîne afin que vous puissiez prouver la propriété et la vente des actifs.
 
 **Base juridique:**
 
@@ -106,15 +106,15 @@ La base juridique de ce traitement est l&#39;article 6, paragraphe 1, point b), 
 
 **Période de conservation:**
 
-Ocean divulgue votre adresse de votre portefeuille et le nom de l&#39;auteur en le transmettant à un contrat intelligent (smart contract) stocké dans un format lisible par machine en permanence sur la chaîne (on-chain) pour permettre une piste d&#39;audit.
+TURING divulgue votre adresse de votre portefeuille et le nom de l&#39;auteur en le transmettant à un contrat intelligent (smart contract) stocké dans un format lisible par machine en permanence sur la chaîne (on-chain) pour permettre une piste d&#39;audit.
 
 ## 4.4 Affichage des ressources de données
 
-Lorsque vous avez publié un set de données, nous récupérons, organisons et stockons votre adresse de votre portefeuille et votre nom d&#39;auteur sur un cache de métadonnées géré par Ocean. De plus, nous montrons votre set données sur Turing DataMart.
+Lorsque vous avez publié un set de données, nous récupérons, organisons et stockons votre adresse de votre portefeuille et votre nom d&#39;auteur sur un cache de métadonnées géré par TURING. De plus, nous montrons votre set données sur TURING DataMart.
 
 **Fins:**
 
-La récupération de données à partir de la blockchain prend du temps. Par conséquent, nous récupérons, organisons et stockons vos données personnelles sur un cache pour améliorer les performances de Turing DataMart. Nous montrons votre set de données sur Turing DataMart, afin que les visiteurs puissent trouver, consommer et staker.
+La récupération de données à partir de la blockchain prend du temps. Par conséquent, nous récupérons, organisons et stockons vos données personnelles sur un cache pour améliorer les performances de TURING DataMart. Nous montrons votre set de données sur TURING DataMart, afin que les visiteurs puissent trouver, consommer et staker.
 
 **Base juridique:**
 
@@ -122,7 +122,7 @@ La base juridique de ce traitement est notre intérêt légitime, conformément 
 
 **Intérêts légitimes:**
 
-Notre intérêt légitime est d&#39;améliorer l&#39;expérience utilisateur en améliorant les performances de Turing DataMart.
+Notre intérêt légitime est d&#39;améliorer l&#39;expérience utilisateur en améliorant les performances de TURING DataMart.
 
 **Période de conservation:**
 
@@ -130,11 +130,11 @@ Votre adresse de votre portefeuille et votre nom sont stockés en permanence sur
 
 ## 4.5 Historique
 
-Lhistorique de Turing DataMart est un outil de transparence que vous pouvez utiliser pour visualiser vos transactions relatives à Turing DataMart. Lorsque vous utilisez l&#39;historique, nous collectons votre adresse de votre portefeuille. Ensuite, nous récupérons les transactions respectives et pertinentes stockées sur la blockchain (plus précisément, à partir du cache de métadonnées) et les organisons dans une table.
+Lhistorique de TURING DataMart est un outil de transparence que vous pouvez utiliser pour visualiser vos transactions relatives à TURING DataMart. Lorsque vous utilisez l&#39;historique, nous collectons votre adresse de votre portefeuille. Ensuite, nous récupérons les transactions respectives et pertinentes stockées sur la blockchain (plus précisément, à partir du cache de métadonnées) et les organisons dans une table.
 
 **Fins:**
 
-Nous devons collecter votre adresse de votre portefeuille pour récupérer chaque transaction que vous avez effectuée sur Turing DataMart. Nous récupérons et organisons vos données de transaction publiques afin que vous puissiez rapidement avoir un aperçu de toutes les actions que vous avez effectuées sur Turing DataMart.
+Nous devons collecter votre adresse de votre portefeuille pour récupérer chaque transaction que vous avez effectuée sur TURING DataMart. Nous récupérons et organisons vos données de transaction publiques afin que vous puissiez rapidement avoir un aperçu de toutes les actions que vous avez effectuées sur TURING DataMart.
 
 **Base juridique:**
 
@@ -142,7 +142,7 @@ La base juridique de ce traitement est notre intérêt légitime, conformément 
 
 **Intérêts légitimes:**
 
-Notre intérêt légitime à fournir l&#39;historique est de vous offrir la possibilité de visualiser et avoir une vue d&#39;ensemble de vos transactions effectuées sur Turing DataMart.
+Notre intérêt légitime à fournir l&#39;historique est de vous offrir la possibilité de visualiser et avoir une vue d&#39;ensemble de vos transactions effectuées sur TURING DataMart.
 
 **Période de conservation:**
 
@@ -150,7 +150,7 @@ Dès que vous déconnectez votre portefeuille, nous supprimons les entrées de l
 
 ## 4.6 Contact par e-mail
 
-Si vous nous contactez par e-mail, Ocean collectera, utilisera et stockera votre adresse e-mail, et toute autre information que vous nous fournissez dans votre message, tel que votre nom.
+Si vous nous contactez par e-mail, TURING collectera, utilisera et stockera votre adresse e-mail, et toute autre information que vous nous fournissez dans votre message, tel que votre nom.
 
 **Fins:**
 
@@ -166,22 +166,22 @@ Notre intérêt légitime est de répondre à vos demandes.
 
 **Période de conservation :**
 
-Ocean supprime vos données personnelles dès que nous n&#39;en avons plus besoin pour traiter votre demande, sauf si Ocean est tenu de respecter les délais de conservation légaux ou en cas de litiges juridiques.
+TURING supprime vos données personnelles dès que nous n&#39;en avons plus besoin pour traiter votre demande, sauf si TURING est tenu de respecter les délais de conservation légaux ou en cas de litiges juridiques.
 <br/><i id="cookies"></i>
 
 # 5. Cookies et stockage web
 
 Un cookie est un petit fichier qui stocke les paramètres Internet. Votre navigateur Web le télécharge lors de la première visite sur un site Web. La prochaine fois que vous ouvrez ce site Web avec le même appareil, le cookie et les informations qui y sont stockées sont soit renvoyés au site Web qui l&#39;a créé (cookie de première partie), soit envoyés à un autre site Web auquel il appartient (cookie tiers). Cela permet au site Web de détecter que vous l&#39;avez déjà ouvert avec ce navigateur et, dans certains cas, de faire varier le contenu affiché.
 
-Turing DataMart n&#39;utilise pas de cookies à des fins d&#39;analyse ou de marketing. Au lieu de cela, nous utilisons un cookie de première partie fonctionnel qui ne transmet pas de données personnelles vous concernant. Son cookie est utilisé pour améliorer votre expérience utilisateur et sera supprimé une fois que vous aurez fermé votre navigateur.
+TURING DataMart n&#39;utilise pas de cookies à des fins d&#39;analyse ou de marketing. Au lieu de cela, nous utilisons un cookie de première partie fonctionnel qui ne transmet pas de données personnelles vous concernant. Son cookie est utilisé pour améliorer votre expérience utilisateur et sera supprimé une fois que vous aurez fermé votre navigateur.
 
-Turing DataMart utilise également le stockage local et le stockage de session, qui ont des fonctionnalités similaires aux cookies. Nous utilisons votre stockage Web pour mémoriser vos préférences de page et améliorer votre expérience utilisateur. Nous ne stockons pas non plus de données personnelles dans le stockage local et le stockage de session. Votre navigateur supprimera le stockage de session une fois que vous le fermerez.
+TURING DataMart utilise également le stockage local et le stockage de session, qui ont des fonctionnalités similaires aux cookies. Nous utilisons votre stockage Web pour mémoriser vos préférences de page et améliorer votre expérience utilisateur. Nous ne stockons pas non plus de données personnelles dans le stockage local et le stockage de session. Votre navigateur supprimera le stockage de session une fois que vous le fermerez.
 
 Vous avez la possibilité de désactiver les cookies, supprimer les cookies et le stockage Web du disque dur de votre ordinateur à tout moment dans les paramètres de votre navigateur.
 
 # 6. Liens externes
 
-Turing DataMart contient des liens vers des sites Web externes qui sont hors du contrôle et de la responsabilité de Ocean. Nous marquons les liens externes en utilisant ceci: &#8599;.
+TURING DataMart contient des liens vers des sites Web externes qui sont hors du contrôle et de la responsabilité de TURING. Nous marquons les liens externes en utilisant ceci: &#8599;.
 
 # 7. Vos droits
 
@@ -189,7 +189,7 @@ Si vous souhaitez faire usage de vos droits décrits ci-dessous, n&#39;hésitez 
 
 ## 7.1 Droit d&#39;accès (art. 15 du RGPD)
 
-Vous avez le droit d&#39;obtenir la confirmation que Ocean traite les données personnelles vous concernant. Si nous traitons des données personnelles vous concernant, vous avez le droit d&#39;accéder à ces données personnelles et d&#39;obtenir les informations définies à l&#39;article 15 du RGPD.
+Vous avez le droit d&#39;obtenir la confirmation que TURING traite les données personnelles vous concernant. Si nous traitons des données personnelles vous concernant, vous avez le droit d&#39;accéder à ces données personnelles et d&#39;obtenir les informations définies à l&#39;article 15 du RGPD.
 
 ## 7.2 Droit de rectification (art. 16 RGPD)
 
@@ -197,19 +197,19 @@ Vous avez le droit d&#39;obtenir sans retard injustifié la rectification de don
 
 Si vous avez publié un set de données, veuillez noter que vous pouvez modifier les métadonnées que vous avez fournies (comme le nom de l&#39;auteur) à tout moment en procédant comme suit.
 
-- Visitez votre actif publié sur Turing DataMart ([market.oceanprotocol.com](https://market.oceanprotocol.com)).
+- Visitez votre actif publié sur TURING DataMart ([market.oceanprotocol.com](https://market.oceanprotocol.com)).
 - Validez votre identité avec votre clé privée.
 - Cliquez sur « EDIT METADATA » et apportez vos modifications.
 - Enregistrez vos modifications en cliquant sur « SUBMIT ».
 - Confirmez les modifications avec votre clé privée.
 
-Veuillez noter que vous devez payer des frais de gas (fees) pour la confirmation des changements (car une nouvelle transaction est émise). Après modification, la version précédente de vos métadonnées du set de données ne sera plus visible sur Turing DataMart. En outre, vous pouvez modifier le contenu de votre set de données à tout moment.
+Veuillez noter que vous devez payer des frais de gas (fees) pour la confirmation des changements (car une nouvelle transaction est émise). Après modification, la version précédente de vos métadonnées du set de données ne sera plus visible sur TURING DataMart. En outre, vous pouvez modifier le contenu de votre set de données à tout moment.
 
 ## 7.3 Droit à l&#39;effacement (art. 17 du RGPD)
 
 Vous avez le droit d&#39;obtenir sans retard injustifié l&#39;effacement des données personnelles vous concernant, lorsque les fondements juridiques définis à l&#39;article 17 du RGPD s&#39;appliquent.
 
-Si vous avez publié un set de données, vous devez remplacer le nom d&#39;auteur fourni par un espace réservé en effectuant les étapes énumérées au chapitre 7.2. Si vous souhaitez désactiver l&#39;affichage de votre set de données sur Turing DataMart, veuillez lire le chapitre 7.4.
+Si vous avez publié un set de données, vous devez remplacer le nom d&#39;auteur fourni par un espace réservé en effectuant les étapes énumérées au chapitre 7.2. Si vous souhaitez désactiver l&#39;affichage de votre set de données sur TURING DataMart, veuillez lire le chapitre 7.4.
 
 Notez qu&#39;il n&#39;est pas possible d&#39;effacer l&#39;historique des transactions de la blockchain pour des raisons techniques. Mais l&#39;état actuel du réseau ne contiendra plus les anciennes métadonnées.
 
@@ -219,14 +219,14 @@ De plus, pour des raisons techniques, vous ne pouvez pas effacer votre adresse d
 
 En outre, vous avez le droit d&#39;obtenir la limitation du traitement de vos données personnelles lorsque les fondements juridiques définis à l&#39;article 18 du RGPD s&#39;appliquent.
 
-Si vous avez publié un set de données et que vous avez un compte GitHub, vous pouvez utiliser notre Purgatoire, un mécanisme pour masquer tout set de données du marché Ocean, en procédant comme suit.
+Si vous avez publié un set de données et que vous avez un compte GitHub, vous pouvez utiliser notre Purgatoire, un mécanisme pour masquer tout set de données du marché TURING, en procédant comme suit.
 
 - Visitez [**Purgatory** &#8599;](https://github.com/oceanprotocol/list-purgatory/blob/main/list-assets.json).
 - Connectez-vous à votre compte GitHub.
 - Proposer une modification en insérant le DID de l&#39;actif concerné et indiquer une raison comme « Données sensibles ».
 - Validez vos modifications.
 
-Ocean acceptera vos modifications dès que possible. Vous pouvez vous attendre à ce que les modifications soient traitées dans un délai d&#39;une semaine. Pour plus d&#39;informations, veuillez consulter notre [**documentation Purgatory** &#8599;](https://github.com/Ocean/list-purgatory/blob/main/policies/README.md).
+TURING acceptera vos modifications dès que possible. Vous pouvez vous attendre à ce que les modifications soient traitées dans un délai d&#39;une semaine. Pour plus d&#39;informations, veuillez consulter notre [**documentation Purgatory** &#8599;](https://github.com/TURING/list-purgatory/blob/main/policies/README.md).
 
 Si vous avez des questions sur Purgatory ou si vous n&#39;avez pas de compte GitHub et que vous souhaitez que nous désactivons l&#39;affichage du set de données, n&#39;hésitez pas à nous contacter.
 
@@ -237,11 +237,11 @@ Vous pouvez faire usage de votre droit à la portabilité des données en nous c
 
 ## 7.6 Droit d&#39;opposition (art. 21 du RGPD)
 
-Pour des motifs liés à votre situation particulière, vous avez le droit de vous opposer au traitement de vos données personnelles lorsque nous avons basé le traitement sur des intérêts légitimes (art. 6(1)(f) du RGPD). Si vous vous y opposez, Ocean ne traitera plus vos données personnelles à moins que nous puissions démontrer des motifs légitimes impérieux pour le traitement, outrepassant vos droits, libertés et intérêts, ou si le traitement est nécessaire pour établir, exercer ou défendre des réclamations légales.
+Pour des motifs liés à votre situation particulière, vous avez le droit de vous opposer au traitement de vos données personnelles lorsque nous avons basé le traitement sur des intérêts légitimes (art. 6(1)(f) du RGPD). Si vous vous y opposez, TURING ne traitera plus vos données personnelles à moins que nous puissions démontrer des motifs légitimes impérieux pour le traitement, outrepassant vos droits, libertés et intérêts, ou si le traitement est nécessaire pour établir, exercer ou défendre des réclamations légales.
 
 ## 7.7 Droit de déposer une plainte (art. 77 RGPD)
 
-Vous avez le droit de déposer une plainte auprès d&#39;une autorité de contrôle si vous considérez que le traitement de vos données personnelles par Ocean enfreint le RGPD. Vous pouvez déposer une plainte en particulier
+Vous avez le droit de déposer une plainte auprès d&#39;une autorité de contrôle si vous considérez que le traitement de vos données personnelles par TURING enfreint le RGPD. Vous pouvez déposer une plainte en particulier
 
 - dans l&#39;État membre de votre résidence habituelle,
 - dans l&#39;État membre de votre lieu de travail, et

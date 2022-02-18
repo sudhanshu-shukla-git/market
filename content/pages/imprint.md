@@ -3,7 +3,7 @@ title: Imprint
 description: Thanks for using our product and services.
 ---
 
-Ocean Protocol Foundation Ltd.<br/>  
+TURING<br/>  
 The Commerze @ Irving<br/>
 1 Irving Place, 08-11<br/>
 369546 Singapore<br/>
