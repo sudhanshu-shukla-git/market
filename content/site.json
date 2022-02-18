@@ -2,10 +2,10 @@
   "site": {
     "siteTitle": "TURING DataMart",
     "siteTagline": "A marketplace to find, publish and trade financial data sets in the TURING Data Ecosystem.",
-    "siteUrl": "https://market.oceanprotocol.com",
+    "siteUrl": "https://turingdatamart.vercel.app/",
     "siteIcon": "node_modules/@oceanprotocol/art/logo/favicon-white.png",
     "siteImage": "../src/images/share.png",
-    "copyright": "All Rights Reserved. Powered by [TURING](https://oceanprotocol.com)",
+    "copyright": "All Rights Reserved",
     "menu": [
       {
         "name": "Publish",
@@ -16,10 +16,7 @@
         "link": "/profile"
       }
     ],
-    "warning": {
-      "main": "We are in beta. Please familiarize yourself with [the market](https://oceanprotocol.com/technology/marketplaces), [the risks](https://blog.oceanprotocol.com/on-staking-on-data-in-ocean-market-3d8e09eb0a13), and the [Terms of Use](/terms).",
-      "polygonPublish": "Only republish data sets with a pool from ETH Mainnet into Polygon/Matic if the liquidity is **less than or equal to 1000 OCEAN in the original pool**. Doing otherwise will lead to [purgatory](https://github.com/oceanprotocol/list-purgatory) for the data set in Polygon/Matic."
-    },
+
     "announcement": {
       "main": "TURING DataMart is [available on Polygon](https://blog.oceanprotocol.com/ocean-on-polygon-network-8abad19cbf47).",
       "polygon": "Polygon/Matic EVM support is in early stages. [Use the Polygon Bridge](https://docs.oceanprotocol.com/tutorials/polygon-bridge/) to get mOCEAN."
