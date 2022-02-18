@@ -47,7 +47,7 @@ interface Web3ProviderValue {
 const web3ModalTheme = {
   background: 'var(--background-body)',
   main: 'var(--font-color-heading)',
-  secondary: 'var(--brand-grey-dark)',
+  secondary: 'var(--font-color-heading)',
   border: 'var(--border-color)',
   hover: 'var(--background-highlight)'
 }
