@@ -36,11 +36,11 @@ function MarketNetworkStats({
 }): ReactElement {
   return (
     <>
-      <Conversion price={totalValueLocked} hideApproximateSymbol />{' '}
+      {/* <Conversion price={totalValueLocked} hideApproximateSymbol />{' '}
       <abbr title="Total Value Locked">TVL</abbr> across{' '}
       <strong>{poolCount}</strong> asset pools that contain{' '}
       <PriceUnit price={totalOceanLiquidity} small className={styles.total} />,
-      plus datatokens for each pool.
+      plus datatokens for each pool. */}
     </>
   )
 }
@@ -158,12 +158,12 @@ export default function MarketStats(): ReactElement {
   return (
     <div className={styles.stats}>
       <>
-        <MarketNetworkStats
+        {/* <MarketNetworkStats
           totalValueLocked={totalValueLockedSum || '0'}
           totalOceanLiquidity={totalOceanLiquiditySum || '0'}
           poolCount={poolCountSum || '0'}
-        />{' '}
-        <Tooltip
+        />{' '} */}
+        {/* <Tooltip
           className={styles.info}
           content={
             <MarketNetworkStatsTooltip
@@ -173,7 +173,7 @@ export default function MarketStats(): ReactElement {
               mainChainIds={mainChainIds}
             />
           }
-        />
+        /> */}
       </>
     </div>
   )

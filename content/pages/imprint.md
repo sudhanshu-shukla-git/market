@@ -3,18 +3,11 @@ title: Imprint
 description: Thanks for using our product and services.
 ---
 
-TURING<br/>  
-The Commerze @ Irving<br/>
-1 Irving Place, 08-11<br/>
-369546 Singapore<br/>
-Singapore
+TURING Team<br/>
 
-E-mail: [gdpr@oceanprotocol.com](mailto:gdpr@oceanprotocol.com)<br/>
-Phone: <br/>
-
-Director: Bruce Pon
-
-Company registered in Singapore<br/>
-Company Registration No.: 201729912W<br/>
-Commercial Register No.:<br/>
-VAT ID:<br/>
+Team:<br/>
+Angad<br/>
+Gopal<br/>
+Mayur<br/>
+Rajendran<br/>
+Sudhanshu<br/>

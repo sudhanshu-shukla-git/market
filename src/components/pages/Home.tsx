@@ -179,13 +179,13 @@ export default function HomePage(): ReactElement {
           <Bookmarks />
         </section>
 
-        {queryAndDids && (
+        {/* {queryAndDids && (
           <SectionQueryResult
             title="Highest Liquidity"
             query={queryAndDids[0]}
             queryData={queryAndDids[1]}
           />
-        )}
+        )} */}
 
         {queryLatest && (
           <SectionQueryResult
@@ -198,7 +198,7 @@ export default function HomePage(): ReactElement {
             }
           />
         )}
-        <PublishersWithMostSales title="Publishers with most sales" />
+        {/* <PublishersWithMostSales title="Publishers with most sales" /> */}
       </>
     </Permission>
   )
