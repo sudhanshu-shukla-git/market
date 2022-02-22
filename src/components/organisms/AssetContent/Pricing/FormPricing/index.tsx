@@ -66,7 +66,7 @@ export default function FormPricing({
           content: <Fixed content={content.fixed} ddo={ddo} />
         }
       : undefined,
-    appConfig.allowDynamicPricing === 'false'
+    appConfig.allowDynamicPricing === 'true'
       ? {
           title: content.dynamic.title,
           content: <Dynamic content={content.dynamic} ddo={ddo} />
