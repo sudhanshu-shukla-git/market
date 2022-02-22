@@ -40,8 +40,12 @@ This app makes it easy to publish data services (deploy and mint ERC20 datatoken
 
 # To start local development:
 
-when using nvm to manage Node.js versions
+
 ```
+git clone https://github.com/sudhanshu-shukla-git/market.git
+cd market
+
+#when using nvm to manage Node.js versions
 nvm use
 
 npm install
