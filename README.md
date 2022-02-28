@@ -62,7 +62,4 @@ To explore the generated GraphQL data structure fire up the accompanying GraphiQ
 
 
 ```
-<!--
-## Architecture
-![Architecture](https://user-images.githubusercontent.com/44602338/155185386-366c90fd-0286-4435-8c69-68d5572f92e9.JPG)
--->
+
